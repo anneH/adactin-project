@@ -1,6 +1,6 @@
 # Adactin Project :+1:
 
-*Automated tests of the Adactin Hotel App *
+*Automated tests of the Adactin Hotel App*
 
 **Java 8**
 
